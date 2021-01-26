@@ -15,4 +15,4 @@ public class HanoiRhymer extends DefaultCountingOutRhymer {
             super.countIn(in);
     }
 }
-//kombinacja klawiszowa alt + strzałki pozwala na przeskakiwanie po otwartych plikach
+//kombinacja klawiszowa alt+strzałki pozwala na przeskakiwanie po otwartych plikach
