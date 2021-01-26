@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/review" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b1e49f5-d545-45f1-81ce-52a08136608c" name="Default Changelist" comment="Initial commit" />
+    <list id="a9074bda-43bf-4fe1-ad46-0a3c57b19979" name="Revert &quot;1.3 dodano gałąź review&quot;" comment="Revert &quot;1.3 dodano gałąź review&quot;&#10;&#10;This reverts commit 1595104d" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="kowallus &lt;kowallus@o2.pl&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="73240b8f-06ed-473b-b76e-902de961af8b" />
+  </component>
+  <component name="ProjectId" id="1nbMjIbur5CAXndp2DfUeGiZpw7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b1e49f5-d545-45f1-81ce-52a08136608c" name="Default Changelist" comment="" />
+      <created>1611654470922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611654470922</updated>
+      <workItem from="1611654493656" duration="5423000" />
+    </task>
+    <task id="LOCAL-00001" summary="1.2 dodano .gitignore">
+      <created>1611654697712</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611654697712</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1.3 dodano branch format, poprawione formatowanie">
+      <created>1611655624921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611655624921</updated>
+    </task>
+    <task id="LOCAL-00003" summary="zmiana nazwy metody">
+      <created>1611655802722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611655802722</updated>
+    </task>
+    <task id="LOCAL-00004" summary="zmiana nazwy klasy">
+      <created>1611655846316</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611655846316</updated>
+    </task>
+    <task id="LOCAL-00005" summary="zmiana nazwy pól klas">
+      <created>1611655946079</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611655946079</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1.3 dodano gałąź review">
+      <created>1611659546514</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611659546514</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1.3 poprawiono gałąź review">
+      <created>1611660346771</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611660346771</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit">
+      <created>1611660763253</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611660763253</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial commit">
+      <created>1611660833832</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611660833832</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/review" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.2 dodano .gitignore" />
+    <MESSAGE value="1.3 dodano branch format, poprawione formatowanie" />
+    <MESSAGE value="zmiana nazwy metody" />
+    <MESSAGE value="zmiana nazwy klasy" />
+    <MESSAGE value="zmiana nazwy pól klas" />
+    <MESSAGE value="1.3 dodano gałąź review" />
+    <MESSAGE value="1.3 poprawiono gałąź review" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="542" y="85" key="CommitChangelistDialog2" timestamp="1611659756911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="542" y="85" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611659756911" />
+    <state x="105" y="129" key="DiffContextDialog" timestamp="1611660491702">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="105" y="129" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611660491702" />
+    <state x="712" y="240" key="RollbackChangesDialog" timestamp="1611660210903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="240" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611660210903" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1611660991870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611660991870" />
+    <state x="725" y="224" key="VCS.ChangeListViewerDialog" timestamp="1611660492752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="725" y="224" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611660492752" />
+    <state x="807" y="434" key="VCS.ChangelistChooser" timestamp="1611659786868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="807" y="434" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1611659786868" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1611660765441">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611660765441" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1611660992457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611660992457" />
+    <state x="731" y="308" width="835" height="424" key="git4idea.merge.GitMergeDialog" timestamp="1611655161123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="308" width="835" height="424" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611655161123" />
+    <state x="740" y="414" key="git4idea.ui.GitResetDialog" timestamp="1611660679417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="414" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611660679417" />
+  </component>
+</project>
